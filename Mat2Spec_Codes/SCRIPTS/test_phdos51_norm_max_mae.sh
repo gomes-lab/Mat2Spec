@@ -1,0 +1,11 @@
+CUDA_VISIBLE_DEVICES=0 python test_Mat2Spec.py \
+--concat_comp '' \
+--Mat2Spec-loss-type 'MAE' \
+--label_scaling 'normalized_max' \
+--data_src 'ph_dos_51' \
+--trainset_subset_ratio 1.0 \
+--train \
+--check-point-path './TRAINED/model_Mat2Spec_ph_dos_51_normalized_max_MAE_trainsize1.0.chkpt' \
+--Mat2Spec-label-dim 51 \
+--Mat2Spec-keep-prob 0.5 \
+--batch-size 8
