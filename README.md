@@ -1,6 +1,6 @@
 ## Density of States Prediction for Materials Discovery via Contrastive Learning from Probabilistic Embeddings
 
-Authors: Shufeng Kong <sup>1</sup>, Francesco Ricci <sup>2,4</sup>, Dan Guevarra <sup>3</sup>, Yimeng Min <sup>1</sup>, Jeffrey B. Neaton <sup>2,5,6</sup>, Carla P. Gomes <sup>1</sup>, and John M. Gregoire <sup>3</sup>
+Authors: Shufeng Kong <sup>1</sup>, Francesco Ricci <sup>2,4</sup>, Dan Guevarra <sup>3</sup>, Jeffrey B. Neaton <sup>2,5,6</sup>, Carla P. Gomes <sup>1</sup>, and John M. Gregoire <sup>3</sup>
 1) Department of Computer Science, Cornell University, Ithaca, NY, USA
 2) Material Science Division, Lawrence Berkeley National Laboratory, Berkeley, CA, USA
 3) Division of Engineering and Applied Science, California Institute of Technology, Pasadena, CA, USA
