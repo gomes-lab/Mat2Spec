@@ -8,7 +8,7 @@ Authors: Shufeng Kong <sup>1</sup>, Francesco Ricci <sup>2,4</sup>, Dan Guevarra
 5) Department of Physics, University of California, Berkeley, Berkeley, CA, USA
 6) Kavli Energy NanoSciences Institute at Berkeley, Berkeley, CA, USA
 
-This a Pytorch implementation of the machine learning model "Mat2Spec" presented in this paper (https://arxiv.org/abs/2110.11444).
+This a Pytorch implementation of the machine learning model "Mat2Spec" presented in this paper (https://www.nature.com/articles/s41467-022-28543-x).
 Any question or suggestion about the codes please directly send to sk2299@cornell.edu
 
 ### Installation
