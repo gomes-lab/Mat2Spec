@@ -130,4 +130,4 @@ All test results (model-predicted DOS) are placed under ./RESULT
 This is research code shared without support or any guarantee on its quality. However, please do raise an issue or submit a pull request if you spot something wrong or that could be improved and I will try my best to solve it. 
 
 ### Acknowledgements
-Implementation of the GNN is inspirated from GATGNN: https://github.com/superlouis/GATGNN.
+Implementation of the GNN is modified from GATGNN: https://github.com/superlouis/GATGNN.
