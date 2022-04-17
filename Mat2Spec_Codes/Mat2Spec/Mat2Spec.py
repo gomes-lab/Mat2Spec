@@ -24,6 +24,8 @@ kl_loss_fn = torch.nn.KLDivLoss()
 sinkhorn = SinkhornDistance(eps=0.1, max_iter=50, reduction='mean').to(device)
 
 
+# Note: the GNN implementation is modified from https://github.com/superlouis/GATGNN/
+
 class COMPOSITION_Attention(torch.nn.Module):
     def __init__(self,neurons):
         super(COMPOSITION_Attention, self).__init__()
