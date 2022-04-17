@@ -14,6 +14,8 @@ import warnings
 from Mat2Spec.utils import *
 from os import path
 
+# Note: this file for data loading is modified from https://github.com/superlouis/GATGNN/blob/master/gatgnn/data.py
+
 # gpu_id = 0
 # device = torch.device(f'cuda:{gpu_id}' if torch.cuda.is_available() else 'cpu')
 device = set_device()
